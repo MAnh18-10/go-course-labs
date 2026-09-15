@@ -21,7 +21,7 @@ func main() {
 	fmt.Println("Текущая дата и время:", now.Format("2006-01-02 15:04:05"))
 
 	// Задание 2: переменные различных типов
-	var i int = 18
+	var i int = 13
 	var f float64 = 3.14
 	var s string = "Hello, Go!"
 	var b bool = true
