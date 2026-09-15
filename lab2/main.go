@@ -74,9 +74,9 @@ func main() {
 	fmt.Println("Длина строки 'Привет!':", strLen("Привет!"))
 
 	// Задание 5
-	r := Rectangle{Width: 5, Height: 3}
+	r := Rectangle{Width: 8, Height: 3}
 	fmt.Printf("Площадь прямоугольника: %.2f\n", r.Area())
 
 	// Задание 6
-	fmt.Printf("Среднее значение 4 и 9: %.2f\n", averageInt(4, 9))
+	fmt.Printf("Среднее значение 2 и 9: %.2f\n", averageInt(4, 9))
 }
